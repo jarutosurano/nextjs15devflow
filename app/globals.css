@@ -8,7 +8,7 @@ body {
 
 @layer base {
   :root {
-    --radius: 8px;
+    --radius: 0.5rem;
   }
 }
 
